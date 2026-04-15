@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background: #2b2b2b;
+}
+
+.search {
+    width: 40%;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+
+.icons {
+    margin-left: 15px;
+    cursor: pointer;
+    gap: 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 15px;
+    background: #2b2b2b;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+    width: 100%;
+}
+

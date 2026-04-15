@@ -1,0 +1,26 @@
+.beneficios {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.beneficios .item {
+    max-width: 22px;
+}
+
+.beneficios i {
+    font-size: 30px;
+    color: #ff4d4d;
+    margin-bottom: 10px;
+}
+
+.beneficios p {
+    font-size: 4px;
+    color: #ccc;
+}
+
+.beneficios a {
+    color: #fff;
+    text-decoration: underline;
+}
